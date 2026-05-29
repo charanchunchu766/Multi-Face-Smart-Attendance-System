@@ -2,30 +2,35 @@
 AI-powered attendance system using Python and OpenCV for real-time multi-face recognition.
 
 ## Features
-- Real-time face detection
-- Multi-face recognition
-- Automatic attendance marking
-- CSV attendance storage
-- Simple GUI interface
+- Multi-face detection
+- Attendance automation
+- Real-time webcam processing
+- ResNet50 feature extraction
+- Excel attendance recording
 
 ## Technologies Used
 - Python
 - OpenCV
-- NumPy
-- Pandas
+- Deep Learning
+- ResNet50
+- Excel Integration
 
 ## Project Structure
-project/
-│── src/
-│── dataset/
-│── attendance/
-│── images/
-│── requirements.txt
-│── README.md
+Multi-Face-Smart-Attendance-System/
+│
+├── src/
+├── dataset/
+├── screenshots/
+├── attendance/
+├── Project.pdf
+├── Presentation.pptx
+├── requirements.txt
+├── README.md
+└── main.py
 
 ## How to Run
 1. Install Python
-2. Install dependencies
+2. Install required dependencies
 3. Run main.py
 
 ## Future Improvements
